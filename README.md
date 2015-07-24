@@ -13,7 +13,15 @@ This is a presentation on most important features of git application.
 - Style guide
 - Snapshots, not differences
 - Ignoring changes
+- Git stash
+- Pull or fetch?
+- Git references
+- Rebase
+- Interactive rebase
+- Pull with rebase
+- Reflog
 - Github
+- Releases
 
 ## Resources
 - [github.com](https://help.github.com)
